@@ -1,0 +1,27 @@
+/*
+ *Name: Dalinska Garcia 
+ *UnityID: dgarci24
+ *Date: 4/6/23
+ *Assignment: webpagesGL.css
+ *Description: Creating a web page about me.
+ */
+ 
+p {
+font-family: Times; 
+font-size: 16px;
+color: #FFFFFF;
+   
+   
+}
+
+.table-border {
+	border: 1px solid #FFFFFF;
+	
+
+}
+
+#photo-resize {
+    
+    max-width: 250px;
+    max-height: 300px;
+}
